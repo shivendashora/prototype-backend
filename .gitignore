@@ -1,0 +1,12 @@
+# Secrets / local config
+.env
+.env.*
+!.env.example
+
+# Local data
+*.db
+
+# Python
+.venv/
+__pycache__/
+*.pyc

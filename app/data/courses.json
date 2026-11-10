@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ai-foundations",
+    "title": "Practical AI Foundations",
+    "tagline": "Use ChatGPT, Claude & Gemini like a pro — for study, work and side projects.",
+    "level": "Beginner",
+    "duration": "4 weeks",
+    "mode": "Live online · weekends",
+    "price": 4999,
+    "original_price": 7999,
+    "next_batch": "2026-12-06",
+    "seats_left": 18,
+    "outcomes": ["Prompting frameworks that actually work", "AI for research, notes & writing", "Build 5 personal AI workflows", "Certificate + portfolio project"],
+    "tools": ["ChatGPT", "Claude", "Gemini", "Perplexity", "NotebookLM"]
+  },
+  {
+    "id": "ai-automation",
+    "title": "AI Automation & No-Code",
+    "tagline": "Automate repetitive work with n8n, Make and AI agents — no coding needed.",
+    "level": "Intermediate",
+    "duration": "6 weeks",
+    "mode": "Live online · weekday evenings",
+    "price": 7999,
+    "original_price": 11999,
+    "next_batch": "2026-12-13",
+    "seats_left": 12,
+    "outcomes": ["Design end-to-end automations", "Connect Sheets, Gmail, WhatsApp & CRMs", "Build an AI lead-qualifier bot", "Freelance-ready project portfolio"],
+    "tools": ["n8n", "Make", "Zapier", "Airtable", "Claude API"]
+  },
+  {
+    "id": "ai-content-design",
+    "title": "AI for Content & Design",
+    "tagline": "Create carousels, reels and brand assets 10x faster with AI design tools.",
+    "level": "Beginner",
+    "duration": "4 weeks",
+    "mode": "Hybrid · Bengaluru & online",
+    "price": 5999,
+    "original_price": 8999,
+    "next_batch": "2026-12-20",
+    "seats_left": 24,
+    "outcomes": ["Content strategy with AI research", "Canva + Figma AI workflows", "Short-form video with AI", "Personal brand content system"],
+    "tools": ["Canva", "Figma", "Midjourney", "CapCut", "Claude"]
+  }
+]
